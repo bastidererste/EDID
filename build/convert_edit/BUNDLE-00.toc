@@ -1,0 +1,3 @@
+([('convert_edit',
+   '/Users/sebastianspiegl 1/git/EDID2/EDID/dist/convert_edit',
+   'EXECUTABLE')],)
